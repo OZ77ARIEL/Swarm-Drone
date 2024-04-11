@@ -2,5 +2,4 @@
 Swarm script for Edu Tello drones.
 
 
-![Watch the Drone Movie](https://github.com/OZ77ARIEL/Swarm-Drone/blob/940ee0d225810aacb4a96499b3467acce460a954/summary/drones.png)
-)
+![Watch the Drone Movie](https://github.com/OZ77ARIEL/Swarm-Drone/blob/167a502cee7fb7d0539054a9aad494e8ce63adbb/summary/drones.png)
