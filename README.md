@@ -1,8 +1,5 @@
 # Swarm_drones
 Swarm script for Edu Tello drones.
 
-![Watch the Drone Movie](https://github.com/OZ77ARIEL/Swarm-Drone/script/output example
-/num img=3, img from drone 0.png
+![Watch the Drone Movie](https://github.com/OZ77ARIEL/Swarm-Drone/blob/940ee0d225810aacb4a96499b3467acce460a954/summary/1.png)
 )
-
-![GitHub Logo](https://github.com/username/repositoryname/raw/main/image_folder/image_name.png)
