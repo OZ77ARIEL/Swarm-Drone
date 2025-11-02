@@ -6,6 +6,14 @@
 
 ---
 
+## 🎬 Preview
+
+For a full explanation and demonstration of the project in action, watch the video:
+
+[**Swarm of Drones Project - Explanation Video**](https://www.youtube.com/watch?v=ld3mvVBgMNQ)
+
+---
+
 ## 💡 Project Summary
 
 This project is a final graduation project from the Faculty of Electrical and Computer Engineering at the Technion, Israel Institute of Technology. It presents a comprehensive solution for the **autonomous flight of a drone swarm** along a predetermined, closed path.
@@ -48,36 +56,6 @@ The key innovation is the system's ability to perform **self-localization** and 
 
 ---
 
-## 🚀 Installation and Operation
-
-To run the project, please clone the repository and install the necessary dependencies (assumed to be listed in a `requirements.txt` file):
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/OZ77ARIEL/Swarm-Drone.git](https://github.com/OZ77ARIEL/Swarm-Drone.git)
-    cd Swarm-Drone
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Operation:**
-    * You will need to configure the input path drawing file and the desired real-world scale (cm).
-    ```bash
-    # Example of running the main control code
-    python run_swarm_control.py --path_file <path/to/drawing> --scale_cm <desired_size_in_cm>
-    ```
-
----
-
-## 🎬 Preview
-
-For a full explanation and demonstration of the project in action, watch the video:
-
-[**Swarm of Drones Project - Explanation Video**](https://www.youtube.com/watch?v=ld3mvVBgMNQ)
-
----
-
 ## 👥 Authors
 
 This project was developed as a final graduation project by:
@@ -86,3 +64,4 @@ This project was developed as a final graduation project by:
 * **Arnold Cheskis**
 
 Supervised by Ofer Danino.
+
